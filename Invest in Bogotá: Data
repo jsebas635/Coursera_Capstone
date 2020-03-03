@@ -1,10 +1,8 @@
+An open-source API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the center of 
+boroughs. The API includes coordinates of all cities and boroughs in Bogotá. The information of Corferias is parsed through URL query.
+
 To solve this problem I will use information given by Foursquare relating with restaurants, car parking and bars. In each case I want
 to use K-means to deal with density problems and to provide stakeholder the best region he can invest his money. For example
 If you run an initial code of restaurants near to Corferias, you will see that most of this type of commerce is located at western
 of the event center, so that I forecast that it would be better to setup a restaurant in other location. I will do that with three 
 distinct types of commerce and will compare between these. 
-
-Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare 
-location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare 
-location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, 
-even if it is only Foursquare location data.
