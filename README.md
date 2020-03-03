@@ -1,2 +1,17 @@
-# Coursera_Capstone
-This is my first repository
+# Capstone project: Invest in Bogotá
+
+## Place: Corferias, Bogotá, Colombia.
+
+## Problem question: 
+
+What could be the best bussines idea you can setup near to Corferias and which place would it be? 
+
+## Description:
+
+Bogotá is the capital and largest city of Colombia, as well as the capital of the department of Cundinamarca.Bogotá had 7,412,566 
+inhabitants within the city's limits (2018 census) with a population density of approximately 4,310 inhabitants per square kilometer. 
+Only 25,166 people are located in rural areas of Capital District. 
+Corferias, located in the heart of Bogotá, is known due to is the most important event center in Colombia so, you can find out near 
+to this a large number of hotels and commerce. If somebody is interested in invest in this place, it would be a very good idea if we 
+can advice which would be the better way to put his money: A restaurant, a car parking or a bar and so on. The code would advice also 
+which adress would be better taking into account commerce density. 
