@@ -15,3 +15,14 @@ Corferias, located in the heart of Bogotá, is known due to is the most importan
 to this a large number of hotels and commerce. If somebody is interested in invest in this place, it would be a very good idea if we 
 can advice which would be the better way to put his money: A restaurant, a car parking or a bar and so on. The code would advice also 
 which adress would be better taking into account commerce density. 
+
+# Data
+
+An open-source known as API, which is publicly available in GitHub, is used to retrieve longitude and latitude coordinates of the 
+center of boroughs. The API includes coordinates of all places and boroughs in Bogotá. The information of Corferias is parsed through URL query.
+
+To solve this problem I will use information given by Foursquare relating with restaurants, car parking and bars. In each case I want
+to use K-means to deal with density problems and to provide stakeholder the best region he can invest his money. For example
+If you run an initial code of restaurants near to Corferias, you will see that most of this type of commerce is located at western
+of the event center, so that I forecast that it would be better to setup a restaurant in other location. I will do that with three 
+distinct types of commerce and will compare between these. 
